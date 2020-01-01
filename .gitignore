@@ -7,6 +7,7 @@
 .pydevproject
 .settings
 .DS_Store
+.vscode
 
 fabricrc
 env
